@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "블로그 포스트를 처음 만듬."
+date: 2019-05-25 03:32:44
 image: '/assets/img/'
-description: 'Put your description here.'
+description: '디스크립션을 넣습니다.'
 tags:
-- jekyll
 - web
 categories:
 - Jekyll is awesome
