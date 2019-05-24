@@ -2,13 +2,13 @@
 title: A blog about lorem ipsum dolor sit amet
 description: A blog about lorem ipsum dolor sit amet
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://willianjusten.com.br" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://zirost.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
-user_title: Anon Developer
-email: anon@anon.com
+username: Ziro
+user_description: Ziro Developer at Lorem Ipsum Dolor
+user_title: Ziro Developer
+email: freshposong@gmail.com
 twitter_username: lorem_ipsum
 github_username:  lorem_ipsum
 gplus_username:  lorem_ipsum
