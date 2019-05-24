@@ -1,0 +1,54 @@
+---
+layout: post
+title: "블로그 포스트를 처음 만듬."
+image: '/assets/img/'
+description: 'Put your description here.'
+tags:
+- jekyll
+- web
+categories:
+- Jekyll is awesome
+twitter_text: 'Put your twitter description here.'
+---
+
+#기술블로그
+
+다짐만 했었던 기술블로그를 오늘 처음 만들었다.
+나는 어떻게 가야 하는가? 어떤식으로 흘러가야 하는가.
+미루기 대마왕, 아직 정해진 건 없지만 모든 일은 차근차근 하나씩 하다 보면 큰 그림이 잡히고, 큰 그림 안에서 꾸준히 해나가면 되는거야.
+
+맥에서 윈도우로 넘어가는데, 코딩을 처음 배울 때 부터 맥에서 시작해서 타이핑, 특히 한/영 바꾸는 것이나 뒤로가기 엔터 쉬프트 등, 내가 손에 익힌 간격에서 잘 벗어난다. 하지만 쓰다보면 익숙해지겠지.
+
+
+##Style Test
+
+
+###Header Style
+# 헤더1
+## 헤더2
+### 헤더3
+#### 헤더4
+##### 헤더5
+###### 헤더6
+
+###Text Style
+**두껍게**
+*기울기*
+++밑줄++
+~~취소선~~
+==강조효과==
+^슈퍼스크립트^
+~섭스크립트~
+
+###Picture & Link
+![사진](#)
+[지로 블로그](#)
+콘텐츠 임베딩
+@[지로 트위터](https://twitter.com/ziro2th/status/1131973570400096257)
+
+###List Style
+-리스트화
+1. 첫번째 리스트
+2. 두번째 리스트
+3. [] 체크 리스트
+
